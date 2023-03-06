@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/axios-react-tutorial/static/css/main.073c9b0a.css",
+    "main.js": "/axios-react-tutorial/static/js/main.ac7c837e.js",
+    "static/js/787.37143b4b.chunk.js": "/axios-react-tutorial/static/js/787.37143b4b.chunk.js",
+    "index.html": "/axios-react-tutorial/index.html",
+    "main.073c9b0a.css.map": "/axios-react-tutorial/static/css/main.073c9b0a.css.map",
+    "main.ac7c837e.js.map": "/axios-react-tutorial/static/js/main.ac7c837e.js.map",
+    "787.37143b4b.chunk.js.map": "/axios-react-tutorial/static/js/787.37143b4b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac7c837e.js"
+  ]
+}
