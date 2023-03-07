@@ -1,6 +1,5 @@
 import { Component } from 'react';
 import axios from 'axios';
-// import logo from './logo.svg';
 import './App.css';
 import BeerCard from './BeerCard';
 
@@ -26,7 +25,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           {/* map over this.state.arrayOfBeer */}
-          <ol> {this.state.arrayOfBeer.map((beer, index) => { 
+          <div> {this.state.arrayOfBeer.map((beer, index) => { 
             return (
               <BeerCard 
                 key={index} 
@@ -38,7 +37,7 @@ class App extends Component {
                 abv={beer.abv}/>
               )
             })}
-          </ol>
+          </div>
         </header>
       </div>
     );

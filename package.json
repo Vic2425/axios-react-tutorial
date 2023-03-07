@@ -1,6 +1,6 @@
 {
   "name": "axios-react-tutorial",
-  "homepage" : "http://Vic2425.github.io/axios-react-tutorial"
+  "homepage" : "http://Vic2425.github.io/axios-react-tutorial",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
